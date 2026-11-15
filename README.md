@@ -82,10 +82,30 @@ The product data comes from the educational mock API `https://wantapi.com/produc
 
 ## Screenshots
 
-| Home                             | Search                               | Favorites                                  |
-| -------------------------------- | ------------------------------------ | ------------------------------------------ |
-| ![Home](screenshots/01_home.png) | ![Search](screenshots/02_search.png) | ![Favorites](screenshots/03_favorites.png) |
+<table align="center">
+  <tr>
+    <td align="center"><img src="screenshots/01_home.png" height="380" alt="Home"></td>
+    <td align="center"><img src="screenshots/02_search.png" height="380" alt="Search"></td>
+    <td align="center"><img src="screenshots/03_favorites.png" height="380" alt="Favorites"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Home</b><br>Banner, search and product grid</td>
+    <td align="center"><b>Search</b><br>Filter products by name</td>
+    <td align="center"><b>Favorites</b><br>Favorites filter with hearted products</td>
+  </tr>
+</table>
 
-| Product detail                       | Product detail (scrolled)                      | Cart                             | Empty cart                                   |
-| ------------------------------------ | ---------------------------------------------- | -------------------------------- | -------------------------------------------- |
-| ![Detail](screenshots/04_detail.png) | ![Detail scrolled](screenshots/04_detail2.png) | ![Cart](screenshots/05_cart.png) | ![Empty cart](screenshots/06_cart_empty.png) |
+<table align="center">
+  <tr>
+    <td align="center"><img src="screenshots/04_detail.png" height="380" alt="Product detail"></td>
+    <td align="center"><img src="screenshots/04_detail2.png" height="380" alt="Product detail scrolled"></td>
+    <td align="center"><img src="screenshots/05_cart.png" height="380" alt="Cart"></td>
+    <td align="center"><img src="screenshots/06_cart_empty.png" height="380" alt="Empty cart"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Product detail</b><br>Image, price and description</td>
+    <td align="center"><b>Specifications</b><br>Detail page scrolled down</td>
+    <td align="center"><b>Cart</b><br>Items and total price</td>
+    <td align="center"><b>Empty cart</b><br>Shown when the cart has no items</td>
+  </tr>
+</table>
