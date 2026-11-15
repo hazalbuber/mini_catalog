@@ -1,6 +1,6 @@
 # Lotus Store – Mini Catalog App
 
-[Türkçe sürüm](README.tr.md)
+[Türkçe README](README.tr.md)
 
 A simple mobile product catalog app built with Flutter. This is the final project of a Flutter training course.
 
