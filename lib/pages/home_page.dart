@@ -94,6 +94,7 @@ class _HomePageState extends State<HomePage> {
                       ),
                       label: Text('Favoriler (${favorites.length})'),
                       selected: _onlyFavorites,
+                      showCheckmark: false,
                       selectedColor: const Color(0xFFFFE3E3),
                       checkmarkColor: brandRed,
                       onSelected: (value) =>
